@@ -1,5 +1,9 @@
 # Scrambled words
 
+- Category: Coding
+- Points: 100
+
+
 R-boy is convinced that something’s going on! The website contains a games area: he's sure that it contains hidden messages. The first game is scrambled words. Help him find the hidden secret code!
 
 You have to find the original unscrambled words, which were randomly taken from a dictionary.
