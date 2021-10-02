@@ -20,4 +20,6 @@ Consider UTF-8 as the character encoding. Unscrambled words must have the same o
 
 Use the _.ipynb_ file to resolve this enigma. I converted the scrambled and the dictionary words to numbers and then used those to find the corrects words. Then by passing any online SHA256 converder you get the **FLAG**:
 
+```verbatim
 {FLG:70c42b6d6818f3141865f10d1608f7a9763138554f6d5120662222189854231c}
+```
