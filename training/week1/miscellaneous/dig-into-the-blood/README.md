@@ -11,11 +11,7 @@ The image is in here: [Dig+Into+The+Blood.png](https://challenges.reply.com/tamt
 
 Use an _Image Editor_ (I used [Paint.NET](https://www.getpaint.net/)) to alter the image colors and then the **FLAG** will appear:
 
-<<<<<<< HEAD:week1/Dig_into_the_Blood/README.md
-```verbatim
-=======
 ```text
->>>>>>> 00907800a5560f16e8a54984f036e419c9bde9b9:training/week1/miscellaneous/dig-into-the-blood/README.md
 {FLG:TargetBuilding.dxf}
 ```
 
