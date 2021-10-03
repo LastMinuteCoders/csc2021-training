@@ -11,7 +11,7 @@ The image is in here: [Dig+Into+The+Blood.png](https://challenges.reply.com/tamt
 
 Use an _Image Editor_ (I used [Paint.NET](https://www.getpaint.net/)) to alter the image colors and then the **FLAG** will appear:
 
-```
+```text
 {FLG:TargetBuilding.dxf}
 ```
 
